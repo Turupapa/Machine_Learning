@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1596778207002.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A3BA6D22",
+    "lastKnownWriteTime" : 1596970668,
+    "last_content_update" : 1596970668,
+    "path" : "C:/Users/bnmk1/OneDrive/바탕 화면/혀어어엉 파일들~~/경마 갭디/씨발/Xgboost/xgb.R",
+    "project_path" : "xgb.R",
+    "properties" : {
+        "cursorPosition" : "139,0",
+        "scrollLine" : "127",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
